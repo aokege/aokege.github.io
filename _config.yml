@@ -3,7 +3,7 @@ title:
 email:
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url:
+url: aokege.foo.ng
 
 twitter_username:
 github_username: aokege
