@@ -3,10 +3,12 @@ title:
 email:
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: 
+url:
 
 twitter_username:
 github_username: aokege
+
+lang: zh-CN
 
 # Build settings
 markdown: kramdown
